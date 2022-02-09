@@ -8,7 +8,7 @@
 #include "CryGame/GameCVars.h"
 #include "CryGame/Menus/FlashMenuObject.h"
 #include "CryGame/Menus/MPHub.h"
-#include "Library/External/nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 #include "Library/Util.h"
 
 #include "ServerConnector.h"

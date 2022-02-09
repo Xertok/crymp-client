@@ -1,7 +1,7 @@
 #include <stdint.h>
 
-#include "Library/External/Lua/src/lua.h"
-#include "Library/External/Lua/src/lauxlib.h"
+#include <lua.h>
+#include <lauxlib.h>
 
 static int64_t get_number(lua_State *L, int index)
 {

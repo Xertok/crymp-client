@@ -6,8 +6,8 @@
 
 extern "C"
 {
-#include "Library/External/Lua/src/lua.h"
-#include "Library/External/Lua/src/lauxlib.h"
+#include <lua.h>
+#include <lauxlib.h>
 }
 
 #include "ScriptTable.h"

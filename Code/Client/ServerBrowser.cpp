@@ -3,7 +3,7 @@
 #include <string_view>
 
 #include "CryCommon/CrySystem/ISystem.h"
-#include "Library/External/nlohmann/json.hpp"
+#include <nlohmann/json.hpp>
 #include "Library/Format.h"
 #include "Library/Util.h"
 

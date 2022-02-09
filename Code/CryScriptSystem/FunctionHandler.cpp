@@ -4,7 +4,7 @@
 
 extern "C"
 {
-#include "Library/External/Lua/src/lua.h"
+#include <lua.h>
 }
 
 #include "FunctionHandler.h"
