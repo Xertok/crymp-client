@@ -6,3 +6,9 @@ out/
 [Bb]uild.bat
 
 CMakeSettings.json
+
+# xmake
+.xmake
+
+# xmake-config
+Code/config.h
